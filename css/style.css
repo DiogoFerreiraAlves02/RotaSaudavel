@@ -5,6 +5,10 @@
     --dark: #103741;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
